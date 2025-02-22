@@ -1,7 +1,7 @@
 @charset "UTP-8";
 @media screen and (min-width: 768px) and (max-width: 992px) { /* CONFIGURAÇÃO PARA TABLET */
     body {
-        background-image: linear-gradient(to top, #722303, #b35600);
+        background-image: linear-gradient(to top, #0bb6f2, #4cb9df);
     }
 
     section#login {
